@@ -36,5 +36,7 @@ public class YoilTeller {
 		out.println(year +"년 " + month + "월 " + day +"일은 ");
 		out.println(yoil +"요일");
 	}
+	
+	
 
 }
